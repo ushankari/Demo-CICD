@@ -1,7 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-Welcome DevOps 
+<h2>Welcome DevOps !</h2>
 <form >
   <div class="container">
     <label for="uname"><b>Username</b></label>

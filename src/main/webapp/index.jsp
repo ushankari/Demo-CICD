@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Welcome DevOps Champs ************** Indus Tower !</h2>
+<h2>Welcome DevOps Champs ************** Simplilearn !</h2>
 <form >
   <div class="container">
     <label for="uname"><b>Username</b></label>
